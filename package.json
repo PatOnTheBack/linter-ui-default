@@ -16,7 +16,7 @@
     "test": "(apm test) && (flow check) && (eslint . ) && (prettier --list-different lib/*.js)"
   },
   "dependencies": {
-    "atom-package-deps": "^4.3.1",
+    "atom-package-deps": "^6.0.0",
     "disposable-event": "^1.0.3",
     "marked": "^0.7.0",
     "react": "^16.0.0",
